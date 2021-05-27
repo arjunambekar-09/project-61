@@ -1,0 +1,21 @@
+body {
+background: linear-gradient(to top, deeppink, purple, darkviolet, blue);
+  text-align: left;
+}
+img {
+  height: 455px;
+  width: 455px;
+  margin-left: 300px;
+}
+p {
+  font-size: 19px;
+  text-align: justify;
+}
+h1 {
+  margin-left: 40px;
+}
+
+.s {
+    font-size:20px;
+    color: black;
+}
